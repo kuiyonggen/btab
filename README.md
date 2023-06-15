@@ -4,6 +4,7 @@ Just for chrome plugin development study.
 
 ## design
 
+```plantuml
 @startuml
 left to right direction
 actor Guest as g
@@ -14,4 +15,4 @@ package btab {
 g --> UC1
 g --> UC2
 @enduml
-
+```
