@@ -1,0 +1,24 @@
+{
+    "name": "bn",
+    "version": "1.0.0",
+    "description": "bunnynote chrome extension",
+    "manifest_version": 3,
+    "author": "huibunny",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "bn",
+        "default_icon": {
+            "16": "logo.ico",
+            "48": "logo48.ico",
+            "128": "logo128.ico" 
+        }
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "icons": {
+        "16": "logo.ico",
+        "48": "logo48.ico",
+        "128": "logo128.ico"
+    }
+}
