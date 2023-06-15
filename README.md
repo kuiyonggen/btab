@@ -2,7 +2,7 @@
 
 Just for chrome plugin development study.
 
-## design
+## mind map
 
 ```mermaid
 mindmap
