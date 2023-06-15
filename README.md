@@ -14,3 +14,10 @@ mindmap
       Right click
         Add the current page to bookmarks
 ```
+
+## to do
+
+* one tab
+
+* bookmarks
+
