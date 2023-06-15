@@ -4,15 +4,13 @@ Just for chrome plugin development study.
 
 ## design
 
-```plantuml
-@startuml
-left to right direction
-actor Guest as g
-package btab {
-  usecase "Click btab to close tab and record history" as UC1
-  usecase "Right click and select collect the page link" as UC2
-}
-g --> UC1
-g --> UC2
-@enduml
+```mermaid
+mindmap
+  root((btab))
+    One tab
+      close all
+        Click btab to close tab and record history
+    Bookmarks
+      Right click
+        Add the current page to bookmarks
 ```
